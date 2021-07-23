@@ -1,0 +1,25 @@
+.jumbotron {
+  background-image: url(../../assets/img/2.jpg);
+  height: 500px;
+  background-size: cover;
+  position: relative;
+}
+
+.lead.text-break.text-justify {
+  width: auto;
+  margin-right: 400px;
+}
+
+.col {
+  padding-top: 0px;
+  padding-left: opx;
+}
+
+.lead.text-justify.d-flex {
+  padding-right: 400px;
+}
+
+.lead {
+  margin-top: 5px;
+}
+

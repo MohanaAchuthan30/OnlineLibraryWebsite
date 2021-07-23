@@ -1,0 +1,10 @@
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+}
+
+#cs-button {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50% 50%);
+  transform: translate;
+}
+

@@ -1,0 +1,119 @@
+.photo-gallery {
+  color: #313437;
+  background-color: #fff;
+}
+
+.photo-gallery p {
+  color: #7d8285;
+}
+
+.photo-gallery h2 {
+  font-weight: bold;
+  margin-bottom: 40px;
+  padding-top: 40px;
+  color: inherit;
+}
+
+@media (max-width:767px) {
+  .photo-gallery h2 {
+    margin-bottom: 25px;
+    padding-top: 25px;
+    font-size: 24px;
+  }
+}
+
+.photo-gallery .intro {
+  font-size: 16px;
+  max-width: 500px;
+  margin: 0 auto 40px;
+}
+
+.photo-gallery .intro p {
+  margin-bottom: 0;
+}
+
+.photo-gallery .photos {
+  padding-bottom: 1px;
+}
+
+.photo-gallery .item {
+  padding-bottom: 30px;
+}
+
+.navbar.navbar-light.navbar-expand-md.sticky-top {
+  background-color: white;
+  border: 1px;
+}
+
+.jumbotron.text-break {
+  border-radius: 0px;
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+  margin: 0px;
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+}
+
+.btn.btn-primary {
+}
+
+#btn-one {
+  margin-top: 200px;
+}
+
+#btn-two {
+  width: 110px;
+  border-radius: 15px;
+}
+
+#second-lightbox {
+  margin-top: 25px;
+}
+
+#btn-three {
+  width: 110px;
+  border-radius: 15px;
+  /*margin-right: 50%;*/
+  /*margin-left: -50%;*/
+}
+
+.elec-paragraph {
+  /*margin-left: -50%;*/
+  margin-right: 50%;
+}
+
+#btn-three {
+  position: absolute;
+  left: 50%;
+  margin-right: 50%;
+}
+
+#second-btn {
+  margin: 0 auto;
+  display: block;
+  width: 110px;
+  border-radius: 15px;
+}
+
+#third-btn {
+  margin: 0 auto;
+  display: block;
+  width: 110px;
+  border-radius: 15px;
+}
+
+#fourth-btn-electronics {
+  margin: 0 auto;
+  display: block;
+  width: 110px;
+  border-radius: 15px;
+}
+
